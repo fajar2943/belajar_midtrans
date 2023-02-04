@@ -13,9 +13,9 @@
 
 <body>
     <div class="container">
-        <h1 class="my-3">Toko Durian</h1>
+        <h1 class="my-3">Agen Durian Unggul</h1>
         <div class="card" style="width: 18rem;">
-            <img src="{{asset('assets/img/durian.jpeg')}}" class="card-img-top" alt="...">
+            <img src="{{asset('assets/img/durian.jpg')}}" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Durian Lokal</h5>
                 <p class="card-text">Durian lokal, rasanya manis dan ada pait-paitnya, dijamin wueeeenak.</p>
