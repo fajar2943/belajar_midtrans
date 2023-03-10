@@ -19,7 +19,7 @@
     <div class="container">
         <h1 class="my-3">Toko Durian</h1>
         <div class="card" style="width: 18rem;">
-            <img src="{{asset('assets/img/durian.jpeg')}}" class="card-img-top" alt="...">
+            <img src="{{asset('assets/img/durian.jpg')}}" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Detail Pesanan</h5>
                 <table>
